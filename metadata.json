@@ -1,0 +1,7 @@
+{
+  "name": "Member GMRJ",
+  "description": "A premium membership application with a luxury gold theme, featuring member directory, level-based access, and admin management for GMRJ organization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
